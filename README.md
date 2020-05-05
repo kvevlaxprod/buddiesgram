@@ -1,2 +1,2 @@
-# buddiesgram
-New buddiesgram directory
+# buddiegram
+test app for github and for buddiegram
